@@ -13,7 +13,7 @@ public class Customer {
     @Column(name = "ID")
     private String id;
 
-    @Column(name = "LASTNAME")
+    @Column(name = "LASTjuicyNAME")
     private String lastName;
 
     @Column(name = "FIRSTNAME")
